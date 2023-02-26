@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/erikpage/static/css/main.52fb4804.css",
+    "main.js": "/erikpage/static/js/main.ddc730a9.js",
+    "static/js/787.14d69808.chunk.js": "/erikpage/static/js/787.14d69808.chunk.js",
+    "index.html": "/erikpage/index.html",
+    "main.52fb4804.css.map": "/erikpage/static/css/main.52fb4804.css.map",
+    "main.ddc730a9.js.map": "/erikpage/static/js/main.ddc730a9.js.map",
+    "787.14d69808.chunk.js.map": "/erikpage/static/js/787.14d69808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fb4804.css",
+    "static/js/main.ddc730a9.js"
+  ]
+}
